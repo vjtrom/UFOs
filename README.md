@@ -31,3 +31,4 @@ Also in this week’s module, the UFOs simulation offers a real-world example wh
 
 - Another drawback of the new design is that it dynamically updates the table, but a user might want to see additional data before applying the filter. Reintroducing the filter button so the user can execute the filter application might be a better way to go. 
 
+![](https://github.com/vjtrom/UFOs/blob/main/images/Screen%20Shot%202022-10-12%20at%2010.35.41%20AM.png)
