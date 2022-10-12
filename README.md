@@ -23,6 +23,8 @@ Also in this week’s module, the UFOs simulation offers a real-world example wh
 
 - Yet another example is to filter the data by shape, which might suggest the same or different types of space craft being used by extra-terrestrials.  
 
+![](https://github.com/vjtrom/UFOs/blob/main/images/image%201_a.png)
+
 ## Summary:  
 
 - One of the drawbacks of the new design is that requires and exact match of data input. For example, the date format must exactly match the data in the data.js file. Typing in  01/10/2020 will not yield the same result as 1/10/22. One feature for improvement would be to correct for these minor differences in date format. 
