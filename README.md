@@ -1,4 +1,4 @@
-See https://vjtrom.github.io/UFOs/ for webpage
+Go to https://vjtrom.github.io/UFOs/ to see the active webpage
 
 # UFO Sightings Website
 
